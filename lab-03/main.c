@@ -70,7 +70,7 @@ int main() {
     sortStudentsByAgeAndExam(pStudents, numberOfStudents);
     printAllStudents(pStudents, numberOfStudents, "birth_exam_order.txt");
 
-    
+
     return 0;
 }
 

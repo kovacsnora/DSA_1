@@ -1,0 +1,35 @@
+Name: Tina Sane
+Neptun code: THJIS2
+Birth place: Barcelona
+Birth date: 1994 8 27
+Gender: FEMALE
+Exam result: 5.700000
+
+Name: Tom Tate
+Neptun code: SGHKD1
+Birth place: Mexico
+Birth date: 1999 4 7
+Gender: MALE
+Exam result: 6.700000
+
+Name: Kis Janos
+Neptun code: DRPTK2
+Birth place: Budapest
+Birth date: 2001 11 12
+Gender: MALE
+Exam result: 7.450000
+
+Name: Mary Trent
+Neptun code: QSTRG9
+Birth place: Hollywood
+Birth date: 2001 12 5
+Gender: FEMALE
+Exam result: 9.500000
+
+Name: Nagy Anna
+Neptun code: KOSGT8
+Birth place: Budapest
+Birth date: 2001 12 5
+Gender: FEMALE
+Exam result: 8.150000
+
