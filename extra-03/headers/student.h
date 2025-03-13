@@ -1,9 +1,10 @@
 //
-// Created by norik on 3/12/2025.
+// Created by norik on 3/6/2025.
 //
 
 #ifndef STUDENT_H
 #define STUDENT_H
+
 #include <stdlib.h>
 #include <stdio.h>
 
@@ -41,4 +42,7 @@ void printStudentsFromSpecificCity(Student_t *pStudents, int numberOfStudents, c
 void *findStudentByNeptunCode(Student_t *pStudents, int numberOfStudents, const char *neptunCode);
 void sortStudentsByName(Student_t *pStudents, int numberOfStudents);
 void sortStudentsByAgeAndExam(Student_t *pStudents, int numberOfStudents);
+
+
+
 #endif //STUDENT_H

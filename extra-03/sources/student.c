@@ -1,6 +1,7 @@
 //
-// Created by norik on 3/12/2025.
+// Created by norik on 3/6/2025.
 //
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -168,3 +169,9 @@ int cmpByAgeAndExam(const void *p1, const void *p2) {
 void sortStudentsByAgeAndExam(Student_t *pStudents, int numberOfStudents) {
     qsort(pStudents, numberOfStudents, sizeof(Student_t), cmpByAgeAndExam);
 }
+
+
+
+
+
+
